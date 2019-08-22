@@ -1,0 +1,19 @@
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	flex-direction: column;
+}
+table{
+	border-spacing: 0px;
+}
+table,td,th{
+	border: 1px solid #000;
+}
+table td,th{
+	padding: 10px 10px;
+}
+table{
+	text-align: center;
+}
